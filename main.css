@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  width: 100%;
+  background: url(assets/freedom.jpg) no-repeat center;
+  background-size: cover;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+.wrapper {
+  text-align: center;
+  padding-top: 64px;
+  margin-left: 51.203px;
+  margin-right: 51.203px;
+}
+
+.quote {
+  font-size: 40px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+.author {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-family: 'Julius Sans One', sans-serif;
+  font-style: italic;
+}
